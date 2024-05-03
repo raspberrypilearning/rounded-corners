@@ -1,6 +1,6 @@
 To make the corners of an element rounded, you can use the `rounded` class. 
 
-![A screenshot of three tiles on a webpage, each with rounded corners.](images/rounded.PNG)
+![Three tiles on a webpage, each with rounded corners.](images/rounded.PNG)
 
 --- code ---
 ---
@@ -10,12 +10,12 @@ line_numbers: false
 ---
 
 <div class="rounded">
-    <p>Add text here</p>
+    <p>Add text here.</p>
 </div>
 
 --- /code ---
 
-**Tip:** You can adjust the `border-radius` of the `rounded` class in 'style.css'.
+**Tip:** You can adjust the `border-radius` of the `rounded` class in `style.css`.
 
 --- code ---
 ---
