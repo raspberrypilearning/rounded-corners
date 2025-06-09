@@ -1,6 +1,6 @@
-To make the corners of an element rounded, you can use the `rounded` class.
+要使元素的角变圆，可以使用 `rounded` 类。
 
-![Three tiles on a webpage, each with rounded corners.](images/rounded.PNG)
+![网页上的三个块，每个都有圆角。](images/rounded.PNG)
 
 ## --- code ---
 
@@ -10,12 +10,12 @@ line_numbers: false
 --------------------------------------------------------
 
 <div class="rounded">
-    <p>Add text here.</p>
+    <p>在此处添加文本。</p>
 </div>
 
 \--- /code ---
 
-**Tip:** You can adjust the `border-radius` of the `rounded` class in `style.css`.
+\*\*提示：\*\*你可以在 `style.css` 中调整 `rounded` 类的 `border-radius` 。
 
 ## --- code ---
 
